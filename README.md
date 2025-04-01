@@ -1,12 +1,11 @@
 # CSPR-Agriculture
-Here’s the updated README format with the YouTube video box included:
 
-```markdown
 # Design and Inverse Kinematics Analysis of Cable-Suspended Parallel Robot ‘FarmPet’
  for Agricultural Applications
 
 Authors: Sameerjeet Singh Chhabra, Dr. Shubhrata Nagpal  
 DOI Link: https://doi.org/10.22214/ijraset.2023.48965 
+Paper Link: https://www.ijraset.com/research-paper/design-and-inverse-kinematics-analysis-of-cable-suspended-parallel-robot
 
 ## Abstract
 Farming plays a crucial role in our economy, yet traditional methods often fail
