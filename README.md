@@ -1,5 +1,3 @@
-# CSPR-Agriculture
-
 # Design and Inverse Kinematics Analysis of Cable-Suspended Parallel Robot ‘FarmPet’
  for Agricultural Applications
  
