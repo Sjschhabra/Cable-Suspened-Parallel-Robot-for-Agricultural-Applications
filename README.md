@@ -1,5 +1,4 @@
-# Design and Inverse Kinematics Analysis of Cable-Suspended Parallel Robot ‘FarmPet’
- for Agricultural Applications
+# **Design and Inverse Kinematics Analysis of Cable-Suspended Parallel Robot ‘FarmPet’ for Agricultural Applications**
  
 ![CSPR_Robot](https://raw.githubusercontent.com/Sjschhabra/Cable-Suspened-Parallel-Robot-for-Agricultural-Applications/refs/heads/main/Screenshot%202025-03-12%20183937.png)
 
