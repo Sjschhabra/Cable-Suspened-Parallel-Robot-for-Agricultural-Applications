@@ -1,5 +1,8 @@
 # **Design and Inverse Kinematics Analysis of Cable-Suspended Parallel Robot ‘FarmPet’ for Agricultural Applications**
- 
+
+## Video Demonstration
+### Watch the demonstration video on YouTube: https://www.youtube.com/watch?v=ES8Zl3j1rvY
+
 ![CSPR_Robot](https://raw.githubusercontent.com/Sjschhabra/Cable-Suspened-Parallel-Robot-for-Agricultural-Applications/refs/heads/main/Screenshot%202025-03-12%20183937.png)
 ![Image](https://raw.githubusercontent.com/Sjschhabra/Cable-Suspened-Parallel-Robot-for-Agricultural-Applications/refs/heads/main/image104.png)
 Authors: Sameerjeet Singh Chhabra 
@@ -29,7 +32,3 @@ The software algorithms allow the robot to move at a constant velocity along
  demonstrated successful performance, with efficient calculations and
  functional algorithms.
 
-## Video Demonstration
-Watch the demonstration video on YouTube: https://www.youtube.com/watch?v=ES8Zl3j1rvY
-
-Feel free to fill in the introduction section and customize any other parts as needed!
